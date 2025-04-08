@@ -15,6 +15,7 @@
       <br><br>
       <a href="https://github.com/Anuga123/Rishi-V18-Bot/fork">
         <img src="https://img.shields.io/badge/FORK-purple" alt="FORK RISHI V18" width="150">
+        
         <table align="center" cellpadding="10" border="1">
   <tr>
     <td align="center">
@@ -22,10 +23,9 @@
       GO TO RISHI V17 TELEGRAM BOT AND GET SEOSION ID AND CONNECT YOUR SEASION ID INTO YOUR ACCOUNT LINKED DEVICES.
       <br><br>
       <a href="https://t.me/Rishi_Bug_V16_bot">
-        <img src="https://img.shields.io/badge/CONEECT BOT-purple" alt="CONNECT RISHI V18" width="150">
-        
-      </a>
-    </td>
+        <img <src="https://img.shields.io/badge/CONEECT BOT-purple" alt="CONNECT RISHI V18" width="150">
+        <table align="center" cellpadding="10" border="1">
+  
     
 <p align="center">
   <i>Due to recent WhatsApp updates and issues with Baileys, your bot may fail to start. Here are the steps to follow if you encounter this problem:</i>
